@@ -1,7 +1,11 @@
 ### Hi there, I'm Velsan Gjinali 
 
+I'm a passionate **web developer** living in **Prizren, Kosovo**.
+I love being part of development of web technologies.
+I love **open source development** and I build things on my GitHub profile (here).
 
-## I'm a Developer
+
+## I'm a Web Developer
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
