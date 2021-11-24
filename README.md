@@ -62,7 +62,4 @@ Most of the open-source projects I create are the solutions to the problems I fa
 
 </details>
 
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=velsangjinali&show_icons=true&theme=gotham" alt="velsangjinali" />
 
