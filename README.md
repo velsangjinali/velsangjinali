@@ -11,12 +11,6 @@
 - 📫 &nbsp;How to reach me: [@vortegatm](https://twitter.com/vortegatm) or [@velsangjinali](https://www.linkedin.com/in/velsangjinali)
 
 
-### Connect with me:
-
-[<img align="left" alt="vortegatm | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://github.com/velsangjinali/velsangjinali/tree/main]
-[<img align="left" alt="velsangjinali | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="vortegatm | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
 
 📊 &nbsp;**This week I spent my time on**
