@@ -5,7 +5,6 @@ I love being part of development of web technologies.
 I love **open source development** and I build things on my GitHub profile (here).
 
 
-- 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 🔭 &nbsp;I’m currently working on something cool :wink:
