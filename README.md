@@ -6,7 +6,7 @@ I love **open source development** and I build things on my GitHub profile (here
 
 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning React, Angular, Vue
 - 📫 &nbsp;How to reach me: [@vortegatm](https://twitter.com/vortegatm) or [@velsangjinali](https://www.linkedin.com/in/velsangjinali)
